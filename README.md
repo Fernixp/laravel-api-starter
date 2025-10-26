@@ -1,12 +1,9 @@
 # 🚀 Sistema de Gestión - Backend Laravel 12
 
-API RESTful y aplicación MVC construida con Laravel 12, Livewire 3, Mary UI v2 y Tailwind CSS 4.
+API RESTful y aplicación MVC construida con Laravel 12, Livewire 3.
 
 ![Laravel](https://img.shields.io/badge/Laravel-12-red?style=flat-square&logo=laravel)
 ![PHP](https://img.shields.io/badge/PHP-8.2+-blue?style=flat-square&logo=php)
-![Livewire](https://img.shields.io/badge/Livewire-3-purple?style=flat-square)
-![Mary UI](https://img.shields.io/badge/Mary_UI-v2-pink?style=flat-square)
-
 ## 📋 Tabla de Contenidos
 
 - [Características](#características)
